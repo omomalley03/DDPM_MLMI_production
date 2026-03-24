@@ -1,6 +1,6 @@
 # DDPM Paper Replication and Application to Laser Beam Images
 
-Implementation of Denoising Diffusion Probabilistic Models (DDPM) applied to CIFAR-10 and OAM (Orbital Angular Momentum) laser beam images. Experiments cover pixel-space diffusion, VAE compression, and latent diffusion.
+Implementation of Denoising Diffusion Probabilistic Models (DDPM) applied to CIFAR-10 and OAM (Orbital Angular Momentum) laser beam images. Experiments cover pixel-space diffusion, VAE compression, and latent diffusion. CIFAR dataset should load automatically with `torchvision`; contact owen.m.omalley@gmail.com for inquiries regarding laser dataset.
 
 ---
 
