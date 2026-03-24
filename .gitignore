@@ -1,0 +1,36 @@
+# Dataset (auto-downloaded, large)
+data/
+*.tar.gz
+*.mat
+
+# Checkpoints (large binary files)
+checkpoints*/
+*.pt
+
+# Random pics
+*.png
+
+# SLURM logs and node files
+slurm-*.out
+machine.file.*
+*.out
+
+# unimportant stuff
+one_off_slurms/
+obsolete/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+eval_results.txt
+
+logs/
